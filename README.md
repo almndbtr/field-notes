@@ -1,3 +1,3 @@
-## 👨‍🌾 
+# Almond's Field Notes
 
-@almndbtr's field notes on web3 crypto. Built on GitBook.
+Almond's field notes on web3 crypto. Built on GitBook.

@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Field Notes](README.md)
+* [Almond's Field Notes](README.md)
+* [📖 Glossary](glossary.md)
