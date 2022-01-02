@@ -2,7 +2,7 @@
 description: Almond's field notes on web3 crypto. Built on GitBook.
 ---
 
-# 🌱 Almond's Field Notes
+# 📓 Almond's Field Notes
 
 If this made your day better in any way, consider donating `ETH` or `SOL` to help support Almond!
 
