@@ -24,9 +24,13 @@ Thanks `@joekay` and the Soulection team for encouraging folks to share the code
   * :pencil2:Using Gitbook's interface, I'll just write a sloppy first draft to get it all out there (brain dump). When it's "good enough", I'll merge it in, read it in production, and find areas to iterate and work on.
 * :relieved:Finish: when I think that it's gone through enough iterations after self-review and peer-review, I close out the issue with a comment.
 
-### License :man\_health\_worker:
+### Contributing :nail\_care:
 
-[The Hippocractic License](https://firstdonoharm.dev)
+Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on [https://field-notes.almndbtr.dev](https://field-notes.almndbtr.dev) ✨.
+
+Please read the [Code of Conduct](CODE\_OF\_CONDUCT.md) to keep this project's community approachable and respectable.
+
+At this time, I'm only reviewing reported [typographical errors](https://en.wikipedia.org/wiki/Typographical\_error) and their fixes. I will politely decline any new work.
 
 ### **Special thanks** :sparkler:****
 
@@ -35,6 +39,10 @@ Thanks `@joekay` and the Soulection team for encouraging folks to share the code
 * My work colleagues: 🌹, 🐦🚗, :woman\_pilot::blueberries:
 * [@julian](https://twitter.com/julian)'s[ Writing Well](https://www.julian.com/guide/write)
 * [@jnraine](https://twitter.com/jnraine)'s [`Refactoring: A Developer's guide to writing`](https://www.youtube.com/watch?v=BbIILUSmSk4)
+
+### License :man\_health\_worker:
+
+[The Hippocractic License](https://firstdonoharm.dev)
 
 ### Legal Disclosures _****_ 💼
 
