@@ -8,7 +8,7 @@ If you search for "web3 crypto" in any search engine or social media platform, y
 
 I got my bearing by talking to my co-workers who were more well-versed in the space and asked them for their recommendations. They shared podcasts, videos, books, and thought leaders and encouraged me to do my own research before committing any money to any one project. If you're interested in how I got into crypto, check it out on `mirror.xyz`: [How I got into crypto](https://mirror.xyz/almndbtr.eth/MytpbdZZKS-TrS5INDbwXiviYW1wAfQQ0RBmsWwD0JE).
 
-### Personas 👻
+### Personas 🤾
 
 I learned that there are different ways to get "involved" in the crypto space. I've transitioned between [Personas](https://en.wikipedia.org/wiki/Persona) and sometimes even wore more than one "hat" at a time. There are probably more that I will discover as I traverse the rabbit hole and I'll document them here as I become them. Maybe these lenses could help you find where you're at on your journey.
 
@@ -20,8 +20,6 @@ I learned that there are different ways to get "involved" in the crypto space. I
 ### Resources :key2:
 
 #### The Basics 🍼
-
-There are&#x20;
 
 * Coinbase's [Crypto basics](https://www.coinbase.com/learn/crypto-basics)
 * Ledger's [Ledger Academy](https://www.ledger.com/academy)
