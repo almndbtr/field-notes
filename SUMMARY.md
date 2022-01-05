@@ -8,4 +8,4 @@
 
 ## Smart Contract Walkthroughs
 
-* [Zorb Contracts](smart-contract-walkthroughs/zorb-contracts.md)
+* [🟣 Zorb Contracts](smart-contract-walkthroughs/zorb-contracts.md)
