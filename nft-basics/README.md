@@ -4,7 +4,7 @@ description: NFT stands for non-fungible token. Let's talk basics!
 
 # 👶 NFT Basics
 
-### Explain it like I'm five 👧
+### Explain it like I'm five
 
 * `N` is "non". "Non" is another way of saying "not."
 * `F` means "fungible." "Fungible" is a funny word. You can think of it as "tradable" or "switchable."
@@ -13,7 +13,7 @@ description: NFT stands for non-fungible token. Let's talk basics!
 * "Non-fungible token" is like a one-of-a-kind coin.
 * There are many NFTs that look alike, and even some that could _look_ the same! But what makes an NFT unique is its metadata. Metadata is just more information that helps us know why they're different, like their ID number.
 
-### Example | zorb 🟣
+### Example | zorb
 
 Let's use [zorb.dev](https://zorb.dev) as an example. Here are three `zorbs`:
 
@@ -45,7 +45,7 @@ What they all have in common is that  they all interacted with the same contract
 
 Minting an NFT means that you're creating it and preserving it on the blockchain (in the case of Zorbs, Ethereum's blockchain).&#x20;
 
-### Further Reading 📑
+### Further Reading
 
 If you're interested in an end-to-end guide for minting an NFT, check these out:
 

@@ -16,7 +16,7 @@ I started this online publication to track what I'm learning and teaching it to 
 
 Thanks `@joekay` and the Soulection team for encouraging folks to share the codes and break bread with the community. As a long-time listener and software engineer, I'm here for it. :man\_technologist::bread::woman\_technologist:
 
-### Process 🛠️
+### Process
 
 * 🤔Start: when I have an idea, I'll create a new item in the [`Field Notes` project board](https://github.com/users/almndbtr/projects/1) and add any relevant labels. If I have no ideas, I'll work through my own backlog or ask my friends what they're curious about.
 * 🙆‍♂️Next: when I'm ready to work on an idea, set its status to `In Progress`.
@@ -24,7 +24,7 @@ Thanks `@joekay` and the Soulection team for encouraging folks to share the code
   * :pencil2:Using Gitbook's interface, I'll just write a sloppy first draft to get it all out there (brain dump). When it's "good enough", I'll merge it in, read it in production, and find areas to iterate and work on.
 * :relieved:Finish: when I think that it's gone through enough iterations after self-review and peer-review, I close out the issue with a comment.
 
-### Contributing :nail\_care:
+### Contributing
 
 Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on [https://field-notes.almndbtr.dev](https://field-notes.almndbtr.dev) ✨.
 
@@ -32,7 +32,7 @@ Please read the [Code of Conduct](CODE\_OF\_CONDUCT.md) to keep this project's c
 
 At this time, I'm only reviewing reported [typographical errors](https://en.wikipedia.org/wiki/Typographical\_error) and their fixes. I will politely decline any new work.
 
-### **Special thanks** :sparkler:****
+### **Special thanks**
 
 * My high school English teacher, Mrs. G
 * My university's Writing Center reviewers
@@ -40,11 +40,11 @@ At this time, I'm only reviewing reported [typographical errors](https://en.wiki
 * [@julian](https://twitter.com/julian)'s[ Writing Well](https://www.julian.com/guide/write)
 * [@jnraine](https://twitter.com/jnraine)'s [`Refactoring: A Developer's guide to writing`](https://www.youtube.com/watch?v=BbIILUSmSk4)
 
-### License :man\_health\_worker:
+### License
 
 [The Hippocractic License](https://firstdonoharm.dev)
 
-### Legal Disclosures _****_ 💼
+### Legal Disclosures
 
 **tl;dr | **_**This is not financial advice. Please do your own research and consult with your financial or investment advisor(s) before making any decisions.**_
 
