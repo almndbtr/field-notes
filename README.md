@@ -24,11 +24,11 @@ Thanks `@joekay` and the Soulection team for encouraging folks to share the code
   * :pencil2:Using Gitbook's interface, I'll just write a sloppy first draft to get it all out there (brain dump). When it's "good enough", I'll merge it in, read it in production, and find areas to iterate and work on.
 * :relieved:Finish: when I think that it's gone through enough iterations after self-review and peer-review, I close out the issue with a comment.
 
-### License 💼
+### License :man\_health\_worker:
 
 [The Hippocractic License](https://firstdonoharm.dev)
 
-### **Special thanks** 🙇‍♂️
+### **Special thanks** :sparkler:****
 
 * My high school English teacher, Mrs. G
 * My university's Writing Center reviewers
@@ -36,3 +36,12 @@ Thanks `@joekay` and the Soulection team for encouraging folks to share the code
 * [@julian](https://twitter.com/julian)'s[ Writing Well](https://www.julian.com/guide/write)
 * [@jnraine](https://twitter.com/jnraine)'s [`Refactoring: A Developer's guide to writing`](https://www.youtube.com/watch?v=BbIILUSmSk4)
 
+### Legal Disclosures _****_ 💼
+
+**tl;dr | **_**This is not financial advice. Please do your own research and consult with your financial or investment advisor(s) before making any decisions.**_
+
+\
+_Past performance is not indicative of future results. I do not guarantee any specific result (profits or losses). Please be aware of the real risk of loss in following any strategy or investment discussed here. Strategies or investments discussed may fluctuate in price or value. Investors may get back less than invested. Investments or strategies mentioned may not be the right thing This material does not take into account your particular investment objectives, financial situation or needs and is not intended as recommendations appropriate for you. You must make an independent decision regarding investments or strategies mentioned. Before acting on anything in this post, you should consider whether it is suitable for your particular circumstances and strongly consider seeking advice from your own financial or investment advisor(s)._
+
+[\
+](https://viewblock.io/arweave/tx/SQ6H3CZpgiAA-JHbGO8PrYHoo2\_oRwYa4DGbJh76dDk)
