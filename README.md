@@ -4,7 +4,17 @@ description: https://field-notes.almndbtr.dev/
 
 # 📓 Almond's Field Notes
 
-This is Almond's field notes on web3 crypto. Built on [Gitbook](https://www.gitbook.com).
+These are Almond's field notes on web3 crypto.
+
+### Why this exists
+
+I started this online publication to track what I'm learning and teaching it to anyone's who's curious about the space. I even tweeted about it after listening to @joekay's interview with Serato!
+
+!["Sharing the codes and breaking bread with the community." - @joekay](.gitbook/assets/sharing-the-codes-and-breaking-bread-with-the-community-joekay-almndbtr.png)
+
+(Forgive my misplaced apostrophe. :see\_no\_evil:)
+
+Thanks `@joekay` and the Soulection team for encouraging folks to share the codes and break bread with the community. As a long-time listener and software engineer, I'm here for it. :man\_technologist::bread::woman\_technologist:
 
 ### Process 🛠️
 
