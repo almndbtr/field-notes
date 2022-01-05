@@ -9,3 +9,4 @@
 ## Smart Contract Walkthroughs
 
 * [🟣 Zorb Contracts](smart-contract-walkthroughs/zorb-contracts.md)
+* [🎶 Sound Contracts](smart-contract-walkthroughs/sound-contracts.md)
