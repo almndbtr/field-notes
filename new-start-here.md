@@ -36,11 +36,17 @@ Listening to podcasts and watching videos helped me the most when I first starte
 | [@RealVision](https://twitter.com/Realvision) | [Real Vision Crypto](https://www.realvision.com/collections/real-vision-crypto) | [FTX: Building an arbitrage infrastructure for traders](https://www.realvision.com/shows/the-interview-crypto/videos/ftx-building-an-arbitrage-infrastructure-for-traders)     |
 | [@levychain](https://twitter.com/levychain)   | [MINT](https://levychain.substack.com)                                          | [Betting on Culture: Why BlockchainBrett Is Buying Music NFTs](https://levychain.substack.com/p/-betting-on-culture-why-blockchainbrett)                                       |
 
-#### Books & Whitepapers 📖
+#### Books 📖
 
 * Daniel Drescher's [Blockchain Basics](http://blockchain-basics.com): this accelerated my conceptual understanding of the blockchain without getting bogged down in the code.
-* Eliot Couvat's [The Social Token Revolution](https://www.amazon.com/Social-Token-Revolution-revolutionize-together-ebook/dp/B09NGSZRBG): this helped me understand social tokens, the next "wave" of currency to coordinate individuals in group around a share goal. These social tokens are different from [stablecoins](https://www.coinbase.com/learn/crypto-basics/what-is-a-stablecoin), altcoins, and&#x20;
-* [Whitepapers](https://en.wikipedia.org/wiki/White\_paper): a guide that informs readers about a complex issue and presents the issuing body's philosophy on the matter. Crypto projects often publish whitepapers to share what they bring to the space and technical specifics for how it works. If a new crypto project comes out and does not cite or plan to cite a whitepaper, run away in the opposite direction.
-  * [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
-  * [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
-  * [Solana: A new architecture for a high performance blockchain](https://solana.com/solana-whitepaper.pdf)
+* Eliot Couvat's [The Social Token Revolution](https://www.amazon.com/Social-Token-Revolution-revolutionize-together-ebook/dp/B09NGSZRBG): this helped me understand social tokens, the next "wave" of currency to coordinate individuals in group around a share goal. These social tokens are different from [stablecoins](https://www.coinbase.com/learn/crypto-basics/what-is-a-stablecoin), altcoins, and other currencies.
+
+#### Whitepapers :newspaper2:
+
+[Whitepapers](https://en.wikipedia.org/wiki/White\_paper) are a guide that informs readers about a complex issue and presents the issuing body's philosophy on the matter. Crypto projects often publish them to share what they bring to the space and technical specifics for how it works.&#x20;
+
+If a new crypto project comes out and does not cite or plan to release their whitepaper(s) ahead of the initial offering, run away in the opposite direction. Be sure to read it and get ready to ask questions to the appropriate maintainers and community managers in Twitter, Discord, Telegram, or GitHub Discussions.
+
+* [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
+* [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
+* [Solana: A new architecture for a high performance blockchain](https://solana.com/solana-whitepaper.pdf)
