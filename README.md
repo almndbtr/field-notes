@@ -1,8 +1,12 @@
 ---
-description: Almond's field notes on web3 crypto. Built on GitBook.
+description: https://field-notes.almndbtr.dev/
 ---
 
 # 📓 Almond's Field Notes
+
+This is Almond's field notes on web3 crypto. Built on [Gitbook](https://www.gitbook.com).
+
+### If you enjoyed reading this... 👼
 
 If this made your day better in any way, consider donating `ETH` or `SOL` to help support Almond!
 
