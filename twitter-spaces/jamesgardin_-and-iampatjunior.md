@@ -4,9 +4,12 @@ description: Web3 & Music in 2022
 
 # jamesgardin\_ & iampatjunior
 
-January 6, 2022 | 11:30AM - 13:00PM PST
+### Meta
 
-Special thanks to James and Pat for making this space open to me.
+* Date: January 6, 2022 | 11:30AM - 13:00PM PST&#x20;
+* Special thanks to James and Pat for making this space open to me. :sparkles:
+
+### Notes
 
 * NFT Basics - how do you explain this to your friends?
 * Pat: What do you get, physically?&#x20;
@@ -23,6 +26,6 @@ Thanks to [`@JPReynolds.eth`](https://twitter.com/OfficiallyJP\_) for raising th
 \
 \=> _What does it look like for supporters to have a "stake" in fundraising for a new project, using NFTs and social tokens?_
 
-* Grady Cherry Part 1 - [Mirror.xyz Post](https://mirror.xyz/0xe6445bd1d9674fE7fbEdAD2F56F3B1eAEA1b029e/crowdfunds/0x7a9D827648951fD776db1af5678C852EEA73F087)
+* Grady Cherry Part 1 | [Mirror.xyz Post](https://mirror.xyz/0xe6445bd1d9674fE7fbEdAD2F56F3B1eAEA1b029e/crowdfunds/0x7a9D827648951fD776db1af5678C852EEA73F087)
 * Mint by [levychain](https://twitter.com/levychain) | [This Artist Is Raising $50,000 in Crypto For His Next Album](https://podcasts.apple.com/us/podcast/this-artist-is-raising-%2450-000-in-crypto-for-his-next-album/id1575762146?i=1000546537615) -- [xcelencia](https://www.xcelencia.net)
-* [CDTEliot](https://twitter.com/cdteliot) | The Social Token Revolution
+* [CDTEliot](https://twitter.com/cdteliot) | [The Social Token Revolution](https://www.amazon.com/Social-Token-Revolution-revolutionize-together-ebook/dp/B09NGSZRBG)
