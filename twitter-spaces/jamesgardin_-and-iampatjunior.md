@@ -19,7 +19,9 @@ Special thanks to James and Pat for making this space open to me.
 
 ### References
 
-Thanks to `@JPReynolds.eth` for raising this question.
+Thanks to `@JPReynolds.eth` for raising this question (paraphrased):\
+\
+\=> _What does it look like for supporters to have a "stake" in fundraising for a new project, using NFTs and social tokens?_
 
 * Grady Cherry Part 1 - [Mirror.xyz Post](https://mirror.xyz/0xe6445bd1d9674fE7fbEdAD2F56F3B1eAEA1b029e/crowdfunds/0x7a9D827648951fD776db1af5678C852EEA73F087)
 * Mint by [levychain](https://twitter.com/levychain) | [This Artist Is Raising $50,000 in Crypto For His Next Album](https://podcasts.apple.com/us/podcast/this-artist-is-raising-%2450-000-in-crypto-for-his-next-album/id1575762146?i=1000546537615) -- [xcelencia](https://www.xcelencia.net)
