@@ -2,7 +2,7 @@
 description: Web3 & Music in 2022
 ---
 
-# jamesgardin\_ & iampatjunior
+# 🏆 JamesGardin.eth & patjunior.eth
 
 ### Meta
 
