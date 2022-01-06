@@ -4,7 +4,7 @@ description: Web3 & Music in 2022
 
 # jamesgardin\_ & iampatjunior
 
-January 6, 2022 | 11:30AM&#x20;
+January 6, 2022 | 11:30AM - 13:00PM PST
 
 Special thanks to James and Pat for making this space open to me.
 
