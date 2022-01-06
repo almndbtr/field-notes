@@ -19,7 +19,7 @@ Special thanks to James and Pat for making this space open to me.
 
 ### References
 
-Thanks to `@JPReynolds.eth` for raising this question (paraphrased):\
+Thanks to [`@JPReynolds.eth`](https://twitter.com/OfficiallyJP\_) for raising this question (paraphrased):\
 \
 \=> _What does it look like for supporters to have a "stake" in fundraising for a new project, using NFTs and social tokens?_
 
