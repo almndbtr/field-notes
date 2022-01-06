@@ -4,6 +4,8 @@
   * [🐣 New? Start here](new-start-here.md)
 * [👶 NFT Basics](nft-basics/README.md)
   * [ERC-721](nft-basics/erc-721.md)
+* [Twitter Spaces](twitter-spaces/README.md)
+  * [jamesgardin\_ & iampatjunior](twitter-spaces/jamesgardin\_-and-iampatjunior.md)
 
 ## Smart Contract Walkthroughs
 
