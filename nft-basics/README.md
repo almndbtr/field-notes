@@ -49,7 +49,10 @@ Minting an NFT means that you're creating it and preserving it on the blockchain
 
 If you're interested in an end-to-end guide for minting an NFT, check these out:
 
-* `@novaraptur`'s [An Artist's Guide to Solana NFTs and Holaplex](https://medium.com/@novaraptur/an-artists-guide-to-solana-nfts-and-holaplex-3acac536d965)
-* OpenSea Blog | [The Non-Fungible Token Bible: Everything you need to know about NFTs](https://opensea.io/blog/guides/non-fungible-tokens/)
-* Foundation | [`A complete guide to minting an NFT`](https://help.foundation.app/en/articles/4742869-a-complete-guide-to-minting-an-nft)&#x20;
-* [Metaplex Docs](https://docs.metaplex.com)
+* Ethereum-based NFTs
+  * Zora | [ZORA101: step by step on how to mint your NFT](https://help.zora.co/en/articles/5105533-zora101-step-by-step-on-how-to-mint-your-nft)
+  * OpenSea Blog | [The Non-Fungible Token Bible: Everything you need to know about NFTs](https://opensea.io/blog/guides/non-fungible-tokens/)
+  * Foundation | [`A complete guide to minting an NFT`](https://help.foundation.app/en/articles/4742869-a-complete-guide-to-minting-an-nft)&#x20;
+* Solana-based NFTs
+  * `@novaraptur`'s [An Artist's Guide to Solana NFTs and Holaplex](https://medium.com/@novaraptur/an-artists-guide-to-solana-nfts-and-holaplex-3acac536d965)
+  * Metaplex | [Metaplex Docs](https://docs.metaplex.com)
