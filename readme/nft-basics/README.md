@@ -17,11 +17,11 @@ description: NFT stands for non-fungible token. Let's talk basics!
 
 Let's use [zorb.dev](https://zorb.dev) as an example. Here are three `zorbs`:
 
-![Zorb #9144](../.gitbook/assets/zorb-9144.svg)
+![Zorb #9144](../../.gitbook/assets/zorb-9144.svg)
 
-![Zorb #9160](../.gitbook/assets/zorb-9160.svg)
+![Zorb #9160](../../.gitbook/assets/zorb-9160.svg)
 
-![Zorb #9206](../.gitbook/assets/zorb-9206.svg)
+![Zorb #9206](../../.gitbook/assets/zorb-9206.svg)
 
 Every Zorb _looks_ alike. In fact, they are all the same shape and color pixel-by-pixel!
 
