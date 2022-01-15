@@ -19,8 +19,6 @@ Let's use [zorb.dev](https://zorb.dev) as an example. Here are three `zorbs`:
 
 ![Zorb #9144](../../.gitbook/assets/zorb-9144.svg)
 
-![Zorb #9160](../../.gitbook/assets/zorb-9160.svg)
-
 ![Zorb #9206](../../.gitbook/assets/zorb-9206.svg)
 
 Every Zorb _looks_ alike. In fact, they are all the same shape and color pixel-by-pixel!
@@ -28,7 +26,6 @@ Every Zorb _looks_ alike. In fact, they are all the same shape and color pixel-b
 What makes them different is their metadata. Here are each of them hosted on zorb.dev:
 
 * 🟣[`#9144`](https://zorb.dev/nft/9144)
-* 🟣[`#9160`](https://zorb.dev/nft/9160)
 * 🟣[`#9206`](https://zorb.dev/nft/9206)
 
 Each Zorb has a link to view them on Etherscan.&#x20;
@@ -40,7 +37,6 @@ What they all have in common is that  they all interacted with the same contract
 ... but, drilling into each of their respective transactions, you'll see that it was minted for a specific `TokenID` value:
 
 * [Mint Transaction of #9144](https://etherscan.io/tx/0xd29384f43ec1e7cef5588cc5bb298d70b71b3654399ddeb29dca18f6ae8a990a)
-* [Mint Transaction of #9160](https://etherscan.io/tx/0xb02596210aa0f5f452c9e5e09f8d987e9d7d8ccef2f58839808c987538436e76)
 * [Mint Transaction of #9206](https://etherscan.io/token/0xCa21d4228cDCc68D4e23807E5e370C07577Dd152?a=9206)
 
 Minting an NFT means that you're creating it and preserving it on the blockchain (in the case of Zorbs, Ethereum's blockchain).&#x20;
