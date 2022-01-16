@@ -67,7 +67,7 @@ Go ahead and click `Connect Wallet` — you’ll be presented with the option to
 
 Clicking `Connect Wallet` reveals options of which crypto wallet you’d like to connect to Sound.xyz:
 
-![](../.gitbook/assets/connect-wallet-modal-options.gif)
+![](../../.gitbook/assets/connect-wallet-modal-options.gif)
 
 (This guide will not cover how to use the supported wallets in WalletConnect.)
 
