@@ -4,9 +4,7 @@ description: a web-based crypto wallet for the Ethereum blockchain
 
 # 🦊 Metamask
 
-I wrote this section after the `New? Start here` page because if you are interested in getting skin in the game, the best way to do that is to get a crypto wallet and start interacting with the blockchain. I chose MetaMask because that's what I started with.&#x20;
-
-However, in the future, I will also offer a "primer" for using [Phantom](https://phantom.app) for the Solana blockchain given my fabulous experience with their crypto wallet. :ghost:
+I wrote this section after the `New? Start here` page because if you are interested in getting skin in the game, the best way to do that is to get a crypto wallet and start interacting with the blockchain. I chose MetaMask because that's what I started with. But please don't stop there: I also wrote a guide for [Phantom](https://phantom.app) which is an excellent crypto wallet for the Solana blockchain.
 
 \---
 
@@ -67,7 +65,7 @@ Go ahead and click `Connect Wallet` — you’ll be presented with the option to
 
 Clicking `Connect Wallet` reveals options of which crypto wallet you’d like to connect to Sound.xyz:
 
-![](../../.gitbook/assets/connect-wallet-modal-options.gif)
+![](../.gitbook/assets/connect-wallet-modal-options.gif)
 
 (This guide will not cover how to use the supported wallets in WalletConnect.)
 
