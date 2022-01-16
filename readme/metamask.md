@@ -4,6 +4,10 @@ description: a web-based crypto wallet for the Ethereum blockchain
 
 # 🦊 Metamask
 
+I wrote this section after the `New? Start here` page because if you are interested in getting skin in the game, the best way to do that is to get a crypto wallet and start interacting with the blockchain. I chose MetaMask because that's what I started with, but I'd like to also offer a "primer" on using [Phantom](https://phantom.app) for the Solana blockchain given my fabulous experience with their crypto wallet.
+
+\---
+
 [MetaMask](https://metamask.io/about.html) is a global community of developers and designers dedicated to using blockchain technology to make the world a better place.
 
 MetaMask’s main product is a crypto wallet. You can [download MetaMask](https://metamask.io/download.html) as a browser extension or as a mobile application (available for iOS and Android).
