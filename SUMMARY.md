@@ -2,6 +2,7 @@
 
 * [📓 Almond's Field Notes](README.md)
   * [🐣 New? Start here](new-start-here.md)
+  * [🦊 Metamask](readme/metamask.md)
   * [👶 NFT Basics](readme/nft-basics/README.md)
     * [ERC-721](readme/nft-basics/erc-721.md)
 * [🐦 Twitter Spaces](twitter-spaces/README.md)
