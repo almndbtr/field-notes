@@ -2,7 +2,7 @@
 
 * [📓 Almond's Field Notes](README.md)
   * [🐣 New? Start here](new-start-here.md)
-  * [Crypto Wallets](readme/crypto-wallets/README.md)
+  * [📍 Crypto Wallets](readme/crypto-wallets/README.md)
     * [🦊 Metamask](readme/metamask.md)
     * [👻 Phantom](readme/crypto-wallets/phantom.md)
   * [👶 NFT Basics](readme/nft-basics/README.md)
