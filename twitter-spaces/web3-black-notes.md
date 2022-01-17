@@ -4,7 +4,7 @@ description: Hosted by JamesGardin.eth & patjunior.eth
 
 # 🎹 Pilot: #web3 Black Notes
 
-!["The Black Notes", by James Gardin](../../.gitbook/assets/the-black-notes.jpeg)
+!["The Black Notes", by James Gardin](../.gitbook/assets/the-black-notes.jpeg)
 
 ### Meta
 
