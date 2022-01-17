@@ -1,4 +1,4 @@
-# Crypto Wallets
+# 📍 Crypto Wallets
 
 * Crypto Wallets (Browser)
   * MetaMask

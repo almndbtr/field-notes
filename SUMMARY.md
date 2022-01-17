@@ -9,7 +9,8 @@
     * [📜 ERC-721](readme/nft-basics/erc-721.md)
 * [🐦 Twitter Spaces](twitter-spaces/README.md)
   * [🏆 JamesGardin.eth & patjunior.eth](twitter-spaces/jamesgardin\_-and-iampatjunior.md)
-  * [🎹 #web3 Black Notes](twitter-spaces/web3-black-notes.md)
+  * [🎹 Pilot: #web3 Black Notes](twitter-spaces/web3-black-notes/README.md)
+    * [🎹 S1E2: #web3 Black Notes](twitter-spaces/web3-black-notes/s1e2-web3-black-notes.md)
 * [📜 Essays](essays.md)
 
 ## Smart Contract Walkthroughs
