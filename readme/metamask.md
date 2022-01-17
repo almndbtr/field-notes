@@ -12,7 +12,7 @@ I wrote this section after the `New? Start here` page because if you are interes
 
 MetaMask’s main product is a crypto wallet. You can [download MetaMask](https://metamask.io/download.html) as a browser extension or as a mobile application (available for iOS and Android).
 
-MetaMask markets their wallet as a “gateway” to blockchain applications. Put another way, a MetaMask wallet gives you a way to interact with applications that use the blockchain (by default, Ethereum blockchain) as a part of its core functionality. It’s possible to configure MetaMask to connect to other blockchains by using [custom networks](https://metamask.zendesk.com/hc/en-us/articles/360056196151-Using-custom-networks-with-MetaMask), but you may not need to depending on the applications that you’re most interested in using and the network(s) they support. Most popular applications us the Ethereum blockchain.
+MetaMask markets their wallet as a “gateway” to blockchain applications. Put another way, a MetaMask wallet gives you a way to interact with applications that use the blockchain (by default, Ethereum blockchain) as a part of its core functionality. It’s possible to configure MetaMask to connect to other blockchains by using [custom networks](https://metamask.zendesk.com/hc/en-us/articles/360056196151-Using-custom-networks-with-MetaMask), but you may not need to depending on the applications that you’re most interested in using and the network(s) they support. Most popular applications use the Ethereum blockchain.
 
 ### Getting Started
 
