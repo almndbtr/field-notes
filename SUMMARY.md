@@ -8,6 +8,7 @@
   * [👶 NFT Basics](readme/nft-basics/README.md)
     * [📜 ERC-721](readme/nft-basics/erc-721.md)
 * [🐦 Twitter Spaces](twitter-spaces/README.md)
+  * [🔟 Soulection+ | 10 Years of Music & Community](twitter-spaces/soulection+-or-10-years-of-music-and-community.md)
   * [🏆 JamesGardin.eth & patjunior.eth](twitter-spaces/jamesgardin\_-and-iampatjunior.md)
   * [🎹 Pilot: #web3 Black Notes](twitter-spaces/web3-black-notes.md)
   * [🎹 S1E2: #web3 Black Notes](twitter-spaces/s1e2-web3-black-notes.md)
