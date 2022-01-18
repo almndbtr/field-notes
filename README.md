@@ -1,20 +1,22 @@
 ---
-description: https://field-notes.almndbtr.dev/
+description: 👋 Welcome!
 ---
 
-# 📓 Almond's Field Notes
+# Almond's Field Notes
 
-These are Almond's field notes on web3 crypto.
+### [https://field-notes.almndbtr.dev/](https://field-notes.almndbtr.dev)
 
-### Why this exists
+Almond's Field Notes is an [open-source publication](https://github.com/almndbtr/field-notes) to track `@almndbtr`'s experiences in web3.&#x20;
 
-I started this online publication to track what I'm learning and teaching it to anyone's who's curious about the space. I even tweeted about it after listening to @joekay's interview with Serato!
+It is a live and breathing journal.&#x20;
+
+It documents Almond's understanding of the fundamentals in the space, conversations within the community, pointers to others' perspectives, and is by no means perfect. But, it's his, and he wants to share it with everyone. ♥️
+
+@joekay's interview with Serato motivated Almond to publish it in this format:
 
 !["Sharing the codes and breaking bread with the community." - @joekay](.gitbook/assets/sharing-the-codes-and-breaking-bread-with-the-community-joekay-almndbtr.png)
 
-(Forgive my misplaced apostrophe. :see\_no\_evil:)
-
-Thanks `@joekay` and the Soulection team for encouraging folks to share the codes and break bread with the community. As a long-time listener and software engineer, I'm here for it. :man\_technologist::bread::woman\_technologist:
+(Forgive his misplaced apostrophe. :see\_no\_evil:)
 
 ### Process
 
@@ -26,7 +28,7 @@ Thanks `@joekay` and the Soulection team for encouraging folks to share the code
 
 ### Contributing
 
-Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on [https://field-notes.almndbtr.dev](https://field-notes.almndbtr.dev) ✨.
+Thank you for investing your time in contributing to the project! Any contribution you make will be reflected on [https://field-notes.almndbtr.dev](https://field-notes.almndbtr.dev) ✨.
 
 Please read the [Code of Conduct](CODE\_OF\_CONDUCT.md) to keep this project's community approachable and respectable.
 
@@ -34,19 +36,19 @@ At this time, I'm only reviewing reported [typographical errors](https://en.wiki
 
 ### **Special thanks**
 
-* My high school English teacher, Mrs. G
-* My university's Writing Center reviewers
+* 💐My wife, who always encourages me to be creative and share love.
 * My work colleagues: 🌹, 🐦🚗, :woman\_pilot::blueberries:
+* `@joekay` and the Soulection team for encouraging folks to share the codes and break bread with the community. As a long-time listener and software engineer, Almond is here for it. :man\_technologist::bread::woman\_technologist:
 * [@julian](https://twitter.com/julian)'s[ Writing Well](https://www.julian.com/guide/write)
 * [@jnraine](https://twitter.com/jnraine)'s [`Refactoring: A Developer's guide to writing`](https://www.youtube.com/watch?v=BbIILUSmSk4)
 
 ### License
 
-[The Hippocractic License](https://firstdonoharm.dev)
+[The Hippocratic License](https://firstdonoharm.dev)
 
-### Legal Disclosures
+### Disclosures
 
-**tl;dr | **_**This is not financial advice. Please do your own research and consult with your financial or investment advisor(s) before making any decisions.**_
+**tl;dr | **_**This resource is for educational purposes only. It is not financial advice. Please do your own research and consult with your financial or investment advisor(s) before making any decisions.**_
 
 \
 _Past performance is not indicative of future results. I do not guarantee any specific result (profits or losses). Please be aware of the real risk of loss in following any strategy or investment discussed here. Strategies or investments discussed may fluctuate in price or value. Investors may get back less than invested. Investments or strategies mentioned may not be the right thing This material does not take into account your particular investment objectives, financial situation or needs and is not intended as recommendations appropriate for you. You must make an independent decision regarding investments or strategies mentioned. Before acting on anything in this post, you should consider whether it is suitable for your particular circumstances and strongly consider seeking advice from your own financial or investment advisor(s)._

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [📓 Almond's Field Notes](README.md)
+* [Almond's Field Notes](README.md)
   * [🐣 New? Start here](new-start-here.md)
   * [📍 Crypto Wallets](readme/crypto-wallets/README.md)
     * [🦊 Metamask](readme/metamask.md)
