@@ -12,6 +12,7 @@
   * [🏆 JamesGardin.eth & patjunior.eth](twitter-spaces/jamesgardin\_-and-iampatjunior.md)
   * [🎹 Pilot: #web3 Black Notes](twitter-spaces/web3-black-notes.md)
   * [🎹 S1E2: #web3 Black Notes](twitter-spaces/s1e2-web3-black-notes.md)
+  * [🎹 S1E3: #web3 Black Notes](twitter-spaces/s1e3-web3-black-notes.md)
 * [📜 Essays](essays.md)
 
 ## Smart Contract Walkthroughs
