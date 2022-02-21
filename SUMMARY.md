@@ -15,6 +15,7 @@
   * [🎹 S1E3: #web3 Black Notes](twitter-spaces/s1e3-web3-black-notes.md)
 * [🌜 Zora](zora/README.md)
   * [Zoratopia | Feb 2, 2022](zora/zoratopia-or-feb-2-2022.md)
+* [🎉 Party Bids](party-bids.md)
 * [📜 Essays](essays.md)
 
 ## Smart Contract Walkthroughs
