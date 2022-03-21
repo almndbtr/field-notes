@@ -2,7 +2,9 @@
 description: 👋 Welcome!
 ---
 
-# Almond's Field Notes
+# ⚠️ This project is archived and thus, no longer actively maintained. Its contents will continue to be available for the public good. ⚠️
+
+## Almond's Field Notes
 
 ### [https://field-notes.almndbtr.dev/](https://field-notes.almndbtr.dev)
 
